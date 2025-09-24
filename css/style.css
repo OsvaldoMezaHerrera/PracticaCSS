@@ -1,11 +1,11 @@
 h2{
-    color: blueviolet;
+    color: blueviolet !important;
 }
-
+/*
 #articulo-2{
     color: peru;
 }
-
+*/
 .texto-azul{
-    color: aqua;
+    color: blue;
 }
